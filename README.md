@@ -4,7 +4,7 @@ OVERVIEW
 
 A fully connected hopfield-like network that uses hebbian learning rules and mismatch-induced degradation to update synaptic weights. 
 
-To replicate the figures in the paper (Popik, et al., 2019 - Submitted), run the code called Figure_5B.m, Figure_5C.m and/or Figure_5E.m.
+To replicate the figures in the paper (Popik, et al., 2019 - Submitted), run the code called Figure_5B.m, Figure_5C.m and/or Figure_5E.m. In these files, it is possible to change all parameters described in the paper.
 This code was developed as an adaptation of the attractor network model described in Osan et al. (2011).
  
 #
