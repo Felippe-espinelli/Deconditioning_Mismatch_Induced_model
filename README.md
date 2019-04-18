@@ -38,7 +38,9 @@ There is no need to install anything besides Matlab.
 
 # Runtime
 
-Figure_5B.m run in less than 5 minutes. Figure_5C.m and Figure_5E.m takes more than 40 minutes to run in a normal desktop computer.
+- Figure_5B.m run in less than 5 minutes. 
+
+- Figure_5C.m and Figure_5E.m takes more than 40 minutes to run in a normal desktop computer.
 
 
 # Citation
